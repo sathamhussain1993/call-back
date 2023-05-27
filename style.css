@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.countdown {
+  text-align: center;
+}
+
+#counter {
+  font-size: 48px;
+  color: #333;
+}
+
+#message {
+  margin-top: 20px;
+  color: #ff0000;
+}
